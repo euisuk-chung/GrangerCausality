@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pmdarima = "2.0"
+numpy = "1.23"
+statsmodels = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+ipykernel = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
