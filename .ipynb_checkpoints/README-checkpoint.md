@@ -14,3 +14,6 @@ Granger Causality Test
 - Understand the Dataset & cleanup (if required).
 - Build Regression/GC(GrangerCausality) models to predict the sales w.r.t a single & multiple features.
 - Also evaluate the models & compare their respective scores like R2, RMSE, etc.
+
+## Reference Paper
+- https://github.com/iancovert/Neural-GC

@@ -1,0 +1,3 @@
+[submodule "Neural-GC"]
+	path = Neural-GC
+	url = https://github.com/iancovert/Neural-GC.git
