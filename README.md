@@ -16,4 +16,18 @@ Granger Causality Test
 - Also evaluate the models & compare their respective scores like R2, RMSE, etc.
 
 ## Reference Paper
+```latex
+article{tank2021neural,
+  title={Neural granger causality},
+  author={Tank, Alex and Covert, Ian and Foti, Nicholas and Shojaie, Ali and Fox, Emily B},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={8},
+  pages={4267--4279},
+  year={2021},
+  publisher={IEEE}
+}
+```
+
+### Code Reference
 - https://github.com/iancovert/Neural-GC
